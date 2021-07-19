@@ -1,0 +1,10 @@
+@media screen and (max-width:375px) {
+    .cars .info {
+        display: flex;
+        flex-direction: column;
+    }
+    .sedans .luxury .suvs {
+        height: 100%;
+    }
+}
+
